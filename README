@@ -1,0 +1,16 @@
+This project is socket chatting program using c++ language.
+
+This project is console based chatting program.
+
+This project is seperated onto client and server .cpp
+
+
+ver 0.1 / connect server with client using socket.
+
+How to compile - 
+g++ server.cpp -o server
+g++ client.cpp -o client
+
+How to execute -
+./server [Port_Number]
+./client [Port_Number]
